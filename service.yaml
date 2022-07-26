@@ -3,7 +3,7 @@
   kind: "Service"
   metadata: 
     name: "mongo-db"
-    namespace: "development"
+    namespace: "dw-mongodb"
     labels: 
       app: "mongo-db"
   spec: 
