@@ -3,7 +3,7 @@
   kind: "Deployment"
   metadata: 
     name: "mongo-db"
-    namespace: "development"
+    namespace: "dw-mongodb"
   spec: 
     selector: 
       matchLabels: 
